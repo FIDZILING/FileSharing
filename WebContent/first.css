@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+#header {
+	margin: 25px auto 0 auto;
+	width: 500px;
+	text-align: center;
+	background: rgb(189, 225, 255);
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 500px;
+	height: 250px;
+	/*border:1px solid black;*/
+	background: rgb(189, 225, 255);
+}
+
+.textHead {
+	font-size: 20px;
+	margin: 0 0 25px 25px;
+}
+
+.textMain {
+	margin: 0 0 0 100px;
+}
+
+.submitBtn {
+	height: 20px;
+	width: 75px;
+	padding-left: 0;
+	margin: 10px 0 45px 300px;
+	text-align: center;
+}
+
+.signup {
+	margin: 0 0 0 250px;
+}

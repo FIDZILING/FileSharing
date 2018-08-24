@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+#section-1 {
+	height: 40px;
+	width: 1500px;
+	margin:0 auto;
+	background: #8fc2f5;
+}
+
+.Htext {
+	margin: 0 0 0 100px;
+	float: left;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+#changePass {
+	width: 100px;
+	height: 40px;
+	font-size: 25px;
+	margin: 0 0 0 1100px;
+	float: none;
+	cursor: pointer;
+}
+
+#changePass:hover {
+	background: #2c90f5;
+}
+
+#section-2 {
+	height: 200px;
+	width: 1500px;
+	margin:0 auto;
+	display: none;
+	background: #8fc2f5;
+}
+
+#showpassnull {
+	margin: 0 0 0 550px;
+	color: red;
+	font-size: 14px;
+	display: none;
+}
+
+.textHead {
+	font-size: 25px;
+	margin: 0 0 0 400px;
+}
+
+.textMain {
+	font-size: 15px;
+	margin: 0 0 0 450px;
+}
+
+.submitBtn {
+	height: 20px;
+	width: 120px;
+	padding-left: 0;
+	margin: 15px 0 45px 650px;
+	text-align: center;
+}
+
+#section-3 {
+	height: 110px;
+	width: 1500px;
+	margin:0 auto;
+	background: #fff;
+}
+
+#section-4 {
+	height: 150px;
+	width: 1500px;
+	margin:0 auto;
+	background: rgba(255, 241, 113, 0.932)
+}
+
+#section-5 {
+	height: 225px;
+	width: 1500px;
+	margin:0 auto;
+	background: rgba(239, 68, 255, 0.575)
+}
+
+.fileBtn {
+	width: 300px;
+	height: 25px;
+	padding-left: 0;
+	margin: 0 0 15px 10px;
+	text-align: center;
+}
+
+.submitBtn-2 {
+	height: 20px;
+	width: 100px;
+	padding-left: 0;
+	margin: 15px 0 45px 800px;
+	text-align: center;
+}

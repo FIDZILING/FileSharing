@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.wrapper {
+	margin: 0 auto;
+	width: 800px;
+	height: 300px;
+	text-align: center;
+}

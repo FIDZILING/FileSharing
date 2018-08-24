@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.wrapper {
+	margin: 25px auto;
+	width: 500px;
+	height: 400px;
+	/*border:1px solid black;*/
+	background: rgb(189, 225, 255);
+}
+
+.Htext {
+	margin: 5px 0 0 50px;
+}
+
+.text {
+	margin: 0 0 0 100px;
+}
